@@ -1,6 +1,6 @@
 [project]
 name = "tg-iotans"
-version = "1.0.0"
+version = "1.0.1"
 description = "Telegram client for receiving water consumption data from IotansBot."
 readme = "README.md"
 requires-python = ">=3.11"
